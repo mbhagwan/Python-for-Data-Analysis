@@ -1,4 +1,4 @@
-> **Course:** [Python for Data Analysis](https://mode.com/python-tutorial/)
+**Course:** [Python for Data Analysis](https://mode.com/python-tutorial/)
 
 Datasets used in the above lessons:
 * Lessons 2-5: clone_of_python_tutorial.csv
