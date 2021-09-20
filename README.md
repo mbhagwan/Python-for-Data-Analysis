@@ -1,5 +1,4 @@
-**Course:** [Python for Data Analysis](https://mode.com/python-tutorial/)
-
+**Course:** [Python for Data Analysis](https://mode.com/python-tutorial/)<br>
 by: Mode Analytics
 
 Datasets used in the above lessons:
